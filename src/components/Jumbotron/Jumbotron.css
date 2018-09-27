@@ -1,0 +1,20 @@
+header {
+    background-image: url(../Jumbotron/jumbotron.jpg);
+}
+
+h1 {
+    color: red;
+    font-size: 90px;
+    font-family: 'Monoton', cursive;
+}
+
+.jumboHeading {
+    color:blue;
+    font-family: 'Chakra Petch', sans-serif;
+}
+
+nav {
+    background-image: url(../Jumbotron/jumbotron.jpg);
+    font-family: 'Chakra Petch', sans-serif;
+    color: green;
+}
